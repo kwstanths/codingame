@@ -1,0 +1,9 @@
+cmake_minimum_required(VERSION 3.0)
+
+add_subdirectory(Stock_Exchange_Losses)
+add_subdirectory(Mayan_Calculation)
+add_subdirectory(Shadows_Of_The_Knight_Episode_1)
+add_subdirectory(Dont_Panic_Episode_1)
+add_subdirectory(War)
+add_subdirectory(There_Is_No_Spoon_Episode_1)
+add_subdirectory(Skynet_Revolution_Episode_1)

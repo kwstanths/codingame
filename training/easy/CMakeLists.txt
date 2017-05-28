@@ -1,0 +1,12 @@
+cmake_minimum_required(VERSION 3.0)
+
+add_subdirectory(Horse_Racing_Duals)
+add_subdirectory(Defibrillators)
+add_subdirectory(Mime_Type)
+add_subdirectory(Chuck_Norris)
+add_subdirectory(ASCII_Art)
+add_subdirectory(Mars_Lander_Episode_1)
+add_subdirectory(Temperatures)
+add_subdirectory(Power_Of_Thor_Episode_1)
+add_subdirectory(The_Descent)
+add_subdirectory(Onboarding)
