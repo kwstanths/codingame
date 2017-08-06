@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.0)
+
+add_subdirectory(The_Labyrinth)
+add_subdirectory(Surface)
+add_subdirectory(Super_Computer)
+add_subdirectory(Skynet_Revolution_Episode_2)
+add_subdirectory(Roller_Coaster)
+add_subdirectory(Genome_Sequencing)
+add_subdirectory(Cgx_Formatter)
+add_subdirectory(Bender_Episode_2)
